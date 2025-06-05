@@ -30,7 +30,8 @@ FitPoseTracker is an innovative fitness application that combines **AI** and **C
 ### ⚙️ Installation
 
 ```
-git clone https://github.com/tulu-g559/FitPoseTracker.git   
+git clone https://github.com/tulu-g559/FitPoseTracker.git
+cd FitPose
 pip install -r requirements.txt   
 ```
 
